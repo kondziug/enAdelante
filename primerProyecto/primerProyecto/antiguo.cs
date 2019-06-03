@@ -9,6 +9,8 @@ namespace primerProyecto
         public antiguo()
         {
             int a = 233;
+            
+            int w = 21233;
         }
     }
 }
