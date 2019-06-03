@@ -11,6 +11,8 @@ namespace primerProyecto
             int a = 233;
             
             int w = 21233;
+
+            double t = 3.453;
         }
     }
 }
