@@ -17,6 +17,8 @@ namespace primerProyecto
             // un poco mas comentarios
             
             int c = 37;
+
+            string smth = "la edad media";
         }
     }
 }
