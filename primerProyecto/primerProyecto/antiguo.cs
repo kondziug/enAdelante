@@ -14,7 +14,9 @@ namespace primerProyecto
             
             double omega = 4.67;
             
+            // for eigenvalue
             double tau = 213.34;
+            
         }
     }
 }
