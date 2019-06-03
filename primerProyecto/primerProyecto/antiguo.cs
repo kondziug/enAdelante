@@ -11,6 +11,8 @@ namespace primerProyecto
             int a = 233;
 
             double t = 3.453;
+            
+            double omega = 4.67;
         }
     }
 }
