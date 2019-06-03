@@ -13,6 +13,8 @@ namespace primerProyecto
             double t = 3.453;
             
             double omega = 4.67;
+            
+            double tau = 213.34;
         }
     }
 }
