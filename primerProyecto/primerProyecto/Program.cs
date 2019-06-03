@@ -13,6 +13,8 @@ namespace primerProyecto
             int b = 32;
             int sum = a + b;
             Console.WriteLine(sum);
+            
+            // un poco mas comentarios
         }
     }
 }
