@@ -15,6 +15,8 @@ namespace primerProyecto
             Console.WriteLine(sum);
             
             // un poco mas comentarios
+            
+            int c = 37;
         }
     }
 }
