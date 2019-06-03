@@ -8,7 +8,7 @@ namespace primerProyecto
     {
         public antiguo()
         {
-
+            int a = 233;
         }
     }
 }
