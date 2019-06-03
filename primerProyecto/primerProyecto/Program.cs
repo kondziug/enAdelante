@@ -7,6 +7,12 @@ namespace primerProyecto
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            // nuevo commentario
+            int a = 21;
+            int b = 32;
+            int sum = a + b;
+            Console.WriteLine(sum);
         }
     }
 }
