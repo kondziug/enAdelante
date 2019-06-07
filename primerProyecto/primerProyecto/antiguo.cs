@@ -16,7 +16,9 @@ namespace primerProyecto
             
             // for eigenvalue
             double tau = 213.34;
-            
+
+
+            double lambda = 566.4;
         }
     }
 }
